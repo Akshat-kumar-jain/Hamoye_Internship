@@ -31,4 +31,4 @@ The dataset for the remainder of this quiz is the Appliances Energy Prediction d
 ## Technologies
 Project is created with:
 * Python : 3.6
-
+* Google Colab
