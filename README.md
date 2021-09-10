@@ -18,7 +18,7 @@ millions of rows and tens of files in structured format.
 ## [Solution](https://github.com/Akshat-kumar-jain/Hamoye_Internship/blob/4444938f33c4746ea027da7b2af1384854ae9db2/Hamoye_Stage_A_of_Internship.ipynb)
 
 ## Stage B : Machine Learning: Regression - Predicting Energy Efficiency of Buildings
-### My Grade: 75.0% School: OneSchool :: [Certificate](bjdnkfl)
+### My Grade: 75.0% School: OneSchool :: [Certificate](https://app.hamoye.com/profile/128e491d9dc1f000/certificates/13d961afdc41f000)
 
 ### [Dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/00374/)
 
